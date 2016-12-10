@@ -1,0 +1,53 @@
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.exe
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe.config
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Login_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Main_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Apercu_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Options_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.About_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Resources.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.application
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.TrustInfo.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe.config
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe.manifest
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.exe
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.pdb
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\Assoc_Tamgounssi.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\ResolveAssemblyReference.cache
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Login_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Main_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Apercu_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Options_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.About_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Resources.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.vbproj.GenerateResource.Cache
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.TrustInfo.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.exe.manifest
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.exe
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\Assoc_Tamgounssi.pdb
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Main_Form.ar-MA.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Main_Form.ar-MA.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Debug\af\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\AssociationTamgounssi.Main_Form.af.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Debug\af\Assoc_Tamgounssi.resources.dll

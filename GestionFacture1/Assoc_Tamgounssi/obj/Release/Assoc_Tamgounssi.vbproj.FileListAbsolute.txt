@@ -1,0 +1,83 @@
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\DevComponents.DotNetBar.Design.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\DevComponents.DotNetBar2.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.config
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.application
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Login_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Apercu_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Options_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.About_Form.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Resources.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.TrustInfo.xml
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.config
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.pdb
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.manifest
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.pdb
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\DevComponents.DotNetBar.Design.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\DevComponents.DotNetBar2.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\ResolveAssemblyReference.cache
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Login_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Apercu_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Options_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.About_Form.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Resources.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.vbproj.GenerateResource.Cache
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.TrustInfo.xml
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe.manifest
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.application
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.ar-MA.resources
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Code-Source\Code-Source\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.ar-MA.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\bin\Release\af\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.af.resources
+D:\Visual Studio 2008\Projects\Assoc_Tamgounssi\Assoc_Tamgounssi\obj\Release\af\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2008\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.config
+D:\Visual Studio 2008\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe
+D:\Visual Studio 2008\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.xml
+D:\Visual Studio 2008\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.config
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.xml
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.application
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.exe
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.pdb
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\Assoc_Tamgounssi.xml
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\af\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\bin\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Login_Form.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Apercu_Form.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Options_Form.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.About_Form.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Resources.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.af.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\AssociationTamgounssi.Main_Form.ar-MA.resources
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.vbproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\af\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\ar-MA\Assoc_Tamgounssi.resources.dll
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.TrustInfo.xml
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.exe.manifest
+D:\Visual Studio 2012\Projects\AssocTamgounssi - V1 - Screen From Rectangle\Assoc_Tamgounssi\obj\Release\Assoc_Tamgounssi.application
