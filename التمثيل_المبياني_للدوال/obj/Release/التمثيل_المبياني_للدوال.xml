@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+التمثيل_المبياني_للدوال
+</name>
+</assembly>
+<members>
+<member name="M:التمثيل_المبياني_للدوال.Equation.GetEquation(System.Double,System.Double)">
+	<summary>
+ الحصول على التعبير الكتابي للمعادلة
+ </summary>
+	<param name="E_a">العدد a</param>
+	<param name="E_b">العدد b</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:التمثيل_المبياني_للدوال.Equation.GetFunction(System.Double,System.Double)">
+	<summary>
+ الحصول على التعبير الكتابي للدالة
+ </summary>
+	<param name="E_a">العدد a</param>
+	<param name="E_b">العدد b</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:التمثيل_المبياني_للدوال.Equation.GetY(System.Double)">
+	<summary>
+ حساب الأرتوب الموافق لأفصول أو متغير معين
+ </summary>
+	<param name="x">الأفصول أو المتغير</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:التمثيل_المبياني_للدوال.Equation.SolveEquation(System.Double,System.Double)">
+	<summary>
+ حل المعادلة و وضع النتيجة في الفورم الأول
+ </summary>
+	<param name="a">العدد a</param>
+	<param name="b">العدد a</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

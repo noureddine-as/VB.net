@@ -1,0 +1,11 @@
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\bin\Release\التمثيل_المبياني_للدوال.exe
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\bin\Release\التمثيل_المبياني_للدوال.pdb
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\bin\Release\التمثيل_المبياني_للدوال.xml
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.Form1.resources
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.Form2.resources
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.Resources.resources
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.exe
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.xml
+D:\Visual Studio 2008\Projects\التمثيل_المبياني_للدوال\التمثيل_المبياني_للدوال\obj\Release\التمثيل_المبياني_للدوال.pdb
