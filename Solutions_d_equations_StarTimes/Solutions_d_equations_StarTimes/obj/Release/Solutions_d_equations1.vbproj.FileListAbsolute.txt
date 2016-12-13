@@ -1,0 +1,12 @@
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\bin\Release\Solutions_d_equations1.exe
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\bin\Release\Solutions_d_equations1.pdb
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\bin\Release\Solutions_d_equations1.xml
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\WindowsApplication1.AboutBox1.resources
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\WindowsApplication1.Aide_Form.resources
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\WindowsApplication1.Main_Form.resources
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\Solutions_d_equations1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\Solutions_d_equations1.exe
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\Solutions_d_equations1.xml
+C:\Documents and Settings\Noureddine\Local Settings\Application Data\Temporary Projects\Solutions_d_equations1\obj\Release\Solutions_d_equations1.pdb
