@@ -1,0 +1,10 @@
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\bin\Release\ShortCopy.exe
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\bin\Release\ShortCopy.pdb
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\bin\Release\ShortCopy.xml
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.Main_Form.resources
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.Resources.resources
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.exe
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.xml
+D:\Visual Studio 2008\Projects\ShortCopy\ShortCopy\obj\Release\ShortCopy.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShortCopy
+</name>
+</assembly>
+<members>
+<member name="P:ShortCopy.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ShortCopy.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ShortCopy.My.Resources.Resources.ListeChortCopy">
+	<summary>
+  Looks up a localized string similar to noureddine-a-s@hotmail.com
+noureddine_ait_said@yahoo.fr
+a-s نورالدين.
+</summary>
+</member><member name="T:ShortCopy.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
