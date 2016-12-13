@@ -1,0 +1,10 @@
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\HorlogeAnalogique.Form1.resources
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\HorlogeAnalogique.Resources.resources
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\HorlogeAnalogique.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\bin\Release\Horloge Analogique.exe
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\bin\Release\Horloge Analogique.pdb
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\bin\Release\Horloge Analogique.xml
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\Horloge Analogique.exe
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\Horloge Analogique.xml
+D:\Visual Studio 2008\Projects\HorlogeAnalogique\HorlogeAnalogique\obj\Release\Horloge Analogique.pdb
