@@ -1,0 +1,10 @@
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\bin\Debug\LineCopy.exe
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\bin\Debug\LineCopy.pdb
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\bin\Debug\LineCopy.xml
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.Form1.resources
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.Resources.resources
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.exe
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.xml
+D:\Visual Studio 2008\Projects\LineCopy\LineCopy\obj\Debug\LineCopy.pdb
